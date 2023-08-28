@@ -5,9 +5,11 @@ Includes:
 * Autosplitter
 * Blank Major Splits
 * Blank Major & Item Splits
+* Blank 100% Item Splits
+* Blank 100% Item Subsplits
 
 Features:
-* Autosplitter runs off in game timer
+* Autosplitter runs off the in-game timer
 * Bosses 1-3 split after picking up the Access Card obtained after defeating it
-* Final Computer Boss splits on its health hits zero, matching IGT
+* Final Computer Boss splits on the IGT stopping
 * Splits are based on the current world record route
